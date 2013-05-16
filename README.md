@@ -1,4 +1,4 @@
-ngrams-enabler
+ngrams-enabler [![Build Status](https://travis-ci.org/lloydmeta/ngrams-enabler.png?branch=master)](https://travis-ci.org/lloydmeta/ngrams-enabler) [![Code Climate](https://codeclimate.com/github/lloydmeta/ngrams-enabler.png)](https://codeclimate.com/github/lloydmeta/ngrams-enabler)
 -------------
 
 A simple way of getting ngrams out of any given String object. Supports CJK (Chinese, Japanese, Korean) as well as alphabet based languages.
