@@ -1,4 +1,4 @@
-ngrams-rb
+ngrams-enabler
 -------------
 
 A simple way of getting ngrams out of any given String object. Supports CJK (Chinese, Japanese, Korean) as well as alphabet based languages.
